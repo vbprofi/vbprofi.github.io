@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>Addons</title>
+<link>https://vbprofi.github.io//</link>
+<description>Grow with Technology</description>
+
+<item>
+<title>Kodi Addons-Repository</title>
+<link>https://vbprofi.github.io//addons/repo/</link>
+<description>
+<![CDATA[
+<p>
+Kodi 20.x und höher Das komplette Addon Repository für Kodi 20.x und höher findest du hier zum herunterladen . Einfach die aktuelle Repository-Datei herunterladen und&nbsp;<a href="https://vbprofi.github.io//addons/repo/">...</a>
+</p>
+<p><a href="https://vbprofi.github.io//addons/repo/">Read More</a></p>
+]]>
+</description>
+<pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Kodi Screenreader</title>
+<link>https://vbprofi.github.io//addons/tts/</link>
+<description>
+<![CDATA[
+<p>
+Der Kodi-Screenreader (Kodi TTS) ermöglicht Menschen Kodi mit der Sprachausgabe zu verwenden. Das komplette Addon Repository für Kodi 20.x und höher findest du hier zum&nbsp;<a href="https://vbprofi.github.io//addons/tts/">...</a>
+</p>
+<p><a href="https://vbprofi.github.io//addons/tts/">Read More</a></p>
+]]>
+</description>
+<pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+</item>
+
+
+</channel>
+</rss>
